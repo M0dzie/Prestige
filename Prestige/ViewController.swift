@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  Teki
+//  Prestige
 //
 //  Created by Thomas Meyer on 04/12/2023.
 //
@@ -18,7 +18,7 @@ class ViewController: UIViewController {
         "T'es pas le loup qui hurle le plus fort sous la lueur de la lune.",
         "T'es pas le funambule qui danse le mieux sur le fil. ",
         "T'es pas la tortue la plus ninja des égouts",
-        "T’es pas la meilleure punchline de Tekunemerde.",
+        "T’es pas la meilleure punchline de l'app.",
         "T'es pas l'explorateur qui cartographie le plus de territoires.",
         "T'es pas le phénix qui renaît le plus majestueusement de ses cendres.",
         "T'es pas l'architecte qui dessine les lignes les plus audacieuses de la skyline.",

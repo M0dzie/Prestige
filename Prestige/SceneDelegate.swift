@@ -1,6 +1,6 @@
 //
 //  SceneDelegate.swift
-//  Teki
+//  Prestige
 //
 //  Created by Thomas Meyer on 04/12/2023.
 //
